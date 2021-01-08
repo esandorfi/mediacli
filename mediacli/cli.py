@@ -16,7 +16,7 @@ import fsutil
 from datetime import datetime
 
 from mediacli.settings import VERSION, PROGRAM, AUDIO_EXTENSION
-from mediacli.scan import Scan
+
 
 ALL_SOURCE = "*"
 
